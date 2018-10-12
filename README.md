@@ -8,7 +8,7 @@ This is an implementation of U-Net for vocal separation with tensorflow
 - python==3.6.5
 
 ## Data
-
+you can prepare dataset from CCMixter
 ## Usage
 
 ## Paper
