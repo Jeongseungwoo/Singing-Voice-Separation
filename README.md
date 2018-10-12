@@ -6,9 +6,10 @@ This is an implementation of U-Net for vocal separation with tensorflow
 - numpy==1.14.3
 - tensorflow==1.9.0
 - python==3.6.5
-## Usage
 
 ## Data
+
+## Usage
 
 ## Paper
 Andreas Jansson, et al. SINGING VOICE SEPARATION WITH DEEP U-NET CONVOLUTIONAL NETWORKS. 2017. <br> paper: https://ismir2017.smcnus.org/wp-content/uploads/2017/10/171_Paper.pdf
