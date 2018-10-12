@@ -9,7 +9,8 @@ This is an implementation of U-Net for vocal separation with tensorflow
 
 ## Data
 I prepare CCMixter datasets in "./data" and Each track consisted of Mixed, instrumental, Vocal version
-<pre><code>$ python CCMixter.py</code></pre>
+<pre><code>$ python CCMixter_process.py</code></pre>
+
 ## Usage
 
 ## Paper
