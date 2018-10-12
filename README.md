@@ -2,10 +2,10 @@
 This is an implementation of U-Net for vocal separation with tensorflow
 
 ## Requirement
-librosa==0.6.2
-numpy==1.14.3
-tensorflow==1.9.0
-python==3.6.5
+- librosa==0.6.2
+- numpy==1.14.3
+- tensorflow==1.9.0
+- python==3.6.5
 ## Usage
 
 ## Data
